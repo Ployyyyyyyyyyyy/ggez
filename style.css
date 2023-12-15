@@ -1,0 +1,37 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+
+}
+body{
+  background-color: blueviolet;
+}
+ 
+*{
+  text-align: center;
+}
+
+h1,h2{
+  color: brown;
+  background-color: chocolate;
+}
+
+  .note{
+    color: cornflowerblue;
+    font-size: 20px;
+    background-color: deeppink;
+  }
+  #id-selector-demo{
+    color: deepskyblue;
+  }
+  li[vslue="4"]{
+    color: gold;
+  }
+
+  *{
+    text-align: center;
+  }
+/* Write your CSS below, don't change the rules above. */
+
+
